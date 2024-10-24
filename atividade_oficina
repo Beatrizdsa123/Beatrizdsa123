@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Links de navegação</h1>
+    <ul>
+        <li><a href="http://127.0.0.1:5500/atividade1.html/index.html" target="_blank">index</a></li>
+        <li><a href="http://127.0.0.1:5500/atividade1.html/contato.html" target="_blank">contato</a> </li>
+        <li><a href="http://127.0.0.1:5500/atividade1.html/material.html" target="_blank">material</a></li>
+    </ul>
+    
+    <main>
+        <section>
+            <h1>Links utilizando main e section</h1>
+        <ul>
+            <li><a href="http://127.0.0.1:5500/atividade1.html/contato.html">contato</a></li>
+            <li><a href="http://127.0.0.1:5500/atividade1.html/material.html" target="_blank">material</a></li>
+            <li><a href="http://127.0.0.1:5500/atividade1.html/pagina.html" target="_blank">pagina</a></li>
+        </ul>
+        </section>
+    </main>
+    <header>
+        <h2>Links utilizando header e nav </h2>
+
+        <nav>
+            <ul>
+                <li><a href="http://127.0.0.1:5500/atividade1.html/contato.html">contato</a></li>
+                <li><a href="http://127.0.0.1:5500/atividade1.html/material.html" target="_blank">material</a></li>
+                <li><a href="http://127.0.0.1:5500/atividade1.html/pagina.html" target="_blank">pagina</a></li>
+            </ul>
+        </nav>
+        <form >
+            <input type="search" name="q" placeholder="Consulte aqui">
+            <input type="submit" value="Pesquisar "/>
+        </form>
+        
+        
+    </header>
+    <main>
+        <article>
+            <section>
+                <h3>Subseção</h3>
+                <p></p>
+            </section>
+        </article>
+    </main>
+    <aside>
+        <main>
+           <p>usando section,main e article</p>
+        </main>
+    </aside>
+    <table border= "5" style="background-color: rgb(255, 255, 255);height : 200px; width: 200px;" >
+        <td  colspan="4">header</td>
+        <tr>
+        <td  colspan="3"> nav </td>
+        </tr>
+        <td rowspan="3" > aside </td>
+        <tr>
+        <td >section </td>
+        </tr> 
+        <td>article</td>
+        </tr>
+        <tr>
+            <td colspan="2" >footer</td>
+        </tr>  
+    </table>
+    <footer>
+        <p> @ Footer do html</p>
+    </footer>
+</body>
+</html>
