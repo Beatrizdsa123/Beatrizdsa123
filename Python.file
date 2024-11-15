@@ -1,0 +1,18 @@
+def ola(nome):
+    return(f"olá {nome}")
+    
+ola("Beatriz")
+
+
+////
+
+
+def ehpar(n):
+    return n % 2 == 0
+    
+n = 10
+
+if ehpar(n):
+    print(f"O número {n} é par")
+else:
+    print(f"O número {n} é impar") 
