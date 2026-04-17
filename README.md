@@ -37,4 +37,4 @@ Nem só de commits vive uma desenvolvedora! Quando não estou estudando tecnolog
 ---
 
 #### 📊 Meus Status do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Beatrizdsa123-&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Beatrizdsa123&show_icons=true&theme=radical)
