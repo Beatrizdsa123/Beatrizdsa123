@@ -31,7 +31,7 @@ Nem só de commits vive uma desenvolvedora! Quando não estou estudando tecnolog
 ---
 
 ### 🤝 Vamos nos conectar?
-- **LinkedIn:** [Beatriz Aguiar](https://www.linkedin.com/in/beatriz-aguiar) 
+- **LinkedIn:** Beatriz Aguiar
 - **E-mail:** beatrizdasilvaaguiar4gmail.com
 
 ---
