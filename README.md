@@ -10,7 +10,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,9 +32,9 @@ Nem só de commits vive uma desenvolvedora! Quando não estou estudando tecnolog
 
 ### 🤝 Vamos nos conectar?
 - **LinkedIn:** [Beatriz Aguiar](https://www.linkedin.com/in/beatriz-aguiar) 
-- **E-mail:** [Seu e-mail profissional aqui]
+- **E-mail:** beatrizdasilvaaguiar4gmail.com
 
 ---
 
 #### 📊 Meus Status do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Beatrizdsa123-AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Beatrizdsa123-&show_icons=true&theme=radical)
